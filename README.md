@@ -64,3 +64,13 @@ zoom
 [Lungo](https://apps.apple.com/de/app/lungo/id1263070803?mt=12)
 [ncalc fx](https://apps.apple.com/de/app/ncalc-taschenrechner-plus/id1449106995)
 [Affinity Photo](https://apps.apple.com/de/app/affinity-photo/id824183456?mt=12)
+
+## Theming
+I use powerlevel10k to theme iTerm2, I also use the Nordic Theme for iTerm2.
+
+| |
+|:---:|
+[nord-iterm2](https://github.com/arcticicestudio/nord-iterm2)
+[powerlevel10k](https://github.com/romkatv/powerlevel10k)
+
+![Terminal](https://user-images.githubusercontent.com/115210873/198878987-42a9ea33-2962-4583-ac92-e51d77471926.png)
