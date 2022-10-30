@@ -23,9 +23,22 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 #### Software
 Installing all the Brew packages and downloading Sowftware from Dev Sites.
 
+```sh
+brew install magic-wormhole neofetch neovim yt-dlp ffmpeg gnupg imagemagick omkatv/powerlevel10k/powerlevel10k npm --cask anki iterm2 logisim-evolution signal discord	jabref lunar motrix raspberry-pi-imager texstudio yattee element jetbrains-toolbox mactex rustdesk zoom
+
+curl -o ~/Downloads/monero-gui-mac-x64-v0.18.1.0.dmg https://downloads.getmonero.org/gui/monero-gui-mac-x64-v0.18.1.0.dmg
+curl -o ~/Downloads/optionsplus/logioptionsplus_installer.zip https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.zip
+curl -o ~/Downloads/sciebo-2.11.1-webfinger.8491.pkg https://sciebo.de/install/sciebo-2.11.1-webfinger.8491.pkg
+```
+
 #### Theming
 Downloading and applying zsh and powerlevel10k configs, also downloading a Nord theme for iTerm2.
 
+```sh
+curl -o ~/.p10k.zsh https://raw.githubusercontent.com/Loominux/macOS/main/.p10k.zsh
+curl -o ~/.zshrc https://raw.githubusercontent.com/Loominux/macOS/main/.zshrc
+curl -o ~/Downloads/Nord.itermcolors https://github.com/arcticicestudio/nord-iterm2/raw/develop/src/xml/Nord.itermcolors
+```
 
 ## Software
 
