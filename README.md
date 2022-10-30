@@ -24,7 +24,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 Installing all the Brew packages and downloading Sowftware from Dev Sites.
 
 #### Theming
-Downloading and applying zsh and powerlevel10k configs, also downloading a Nord theme for iTerm2
+Downloading and applying zsh and powerlevel10k configs, also downloading a Nord theme for iTerm2.
 
 
 ## Software
