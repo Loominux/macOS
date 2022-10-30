@@ -43,6 +43,7 @@
 |:---:|
 [Logtech Options+](https://www.logitech.com/en-us/software/logi-options-plus.html)
 [Monero GUI](https://www.getmonero.org/downloads/)
+[Sciebo](https://hochschulcloud.nrw)
 
 ### AppStore
 ||
