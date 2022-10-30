@@ -13,6 +13,8 @@ brew install magic-wormhole neofetch neovim yt-dlp ffmpeg gnupg imagemagick omka
 
 curl -o ~/Downloads/monero-gui-mac-x64-v0.18.1.0.dmg https://downloads.getmonero.org/gui/monero-gui-mac-x64-v0.18.1.0.dmg
 curl -o ~/Downloads/optionsplus/logioptionsplus_installer.zip https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.zip
+curl -o ~/Downloads/sciebo-2.11.1-webfinger.8491.pkg https://sciebo.de/install/sciebo-2.11.1-webfinger.8491.pkg
+
 
 # Disable Mouse accel
 defaults write .GlobalPreferences com.apple.mouse.scaling -1
