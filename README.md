@@ -56,7 +56,7 @@
 [Keynote](https://apps.apple.com/de/app/keynote/id409183694?mt=12)
 [Numbers](https://apps.apple.com/de/app/numbers/id409203825?mt=12)
 [iMovie](https://apps.apple.com/de/app/imovie/id408981434?mt=12)
-[xCode](https://apps.apple.com/de/app/xcode/id497799835?mt=12)
+[Xcode](https://apps.apple.com/de/app/xcode/id497799835?mt=12)
 [Garageband](https://apps.apple.com/de/app/garageband/id682658836?mt=12)
 [GoodNotes5](https://apps.apple.com/de/app/goodnotes-5/id1444383602)
 [Whatsapp](https://apps.apple.com/de/app/whatsapp-desktop/id1147396723?mt=12)
@@ -73,4 +73,4 @@ I use powerlevel10k to theme iTerm2, I also use the Nordic Theme for iTerm2.
 [nord-iterm2](https://github.com/arcticicestudio/nord-iterm2)
 [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
-![Terminal](https://user-images.githubusercontent.com/115210873/198878987-42a9ea33-2962-4583-ac92-e51d77471926.png)
+![Terminal](https://user-images.githubusercontent.com/115210873/198879694-5e458251-2b31-4866-8c1a-10bc77586d02.png)
