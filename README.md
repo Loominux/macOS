@@ -4,6 +4,29 @@
 
 `curl https://raw.githubusercontent.com/Loominux/macOS/main/macOS-setup.sh | sh`
 
+### Things the script is doing
+
+#### Install brew
+
+[Brew Website](https://brew.sh)
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/paulweber/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+```
+
+#### Disable mouse acceleration
+`defaults write .GlobalPreferences com.apple.mouse.scaling -1`
+
+#### Software
+Installing all the Brew packages and downloading Sowftware from Dev Sites.
+
+#### Theming
+Downloading and applying zsh and powerlevel10k configs, also downloading a Nord theme for iTerm2
+
+
 ## Software
 
 ### Brew Software
