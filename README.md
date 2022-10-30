@@ -8,9 +8,7 @@
 
 ### Things the script is doing
 
-#### Install brew
-
-[Brew Website](https://brew.sh)
+#### Install [brew](https://brew.sh)
 
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
