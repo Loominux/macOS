@@ -32,36 +32,24 @@ Downloading and applying zsh and powerlevel10k configs, also downloading a Nord 
 ## Software
 
 ### Brew Software
-|CLI|
-|:---:|
-[magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
-[neofetch](https://github.com/dylanaraps/neofetch)
-[neovim](https://neovim.io)
-[yt-dlp](https://github.com/yt-dlp/yt-dlp)
-[ffmpeg](https://ffmpeg.org)
-[gnupg](https://gnupg.org)
-[imagemagick](https://imagemagick.org)
-[omkatv/powerlevel10k/powerlevel10k](https://github.com/romkatv/powerlevel10k)
-[npm](https://www.npmjs.com)
-
-|CASKS|
-|:---:|
-[anki](https://apps.ankiweb.net)
-[iterm2](https://iterm2.com)
-[logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-[signal](https://www.signal.org/de/)
-[discord](https://discord.com)
-[jabref](https://www.jabref.org)
-[lunar](https://lunar.fyi)
-[motrix](https://motrix.app)
-[raspberry-pi-imager](https://www.raspberrypi.com/software/)
-[texstudio](https://texstudio.org)
-[yattee](https://github.com/yattee/yattee)
-[element](https://element.io)
-[jetbrains-toolbox](https://www.jetbrains.com/toolbox-app/)
-[mactex](https://www.tug.org/mactex/)
-[rustdesk](https://rustdesk.com)
-[zoom](https://zoom.us)
+|CLI|CASKS|
+|:---:|:---:|
+|[magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)|[anki](https://apps.ankiweb.net)|
+|[neofetch](https://github.com/dylanaraps/neofetch)|[iterm2](https://iterm2.com)|
+|[neovim](https://neovim.io)|[logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)|
+|[yt-dlp](https://github.com/yt-dlp/yt-dlp)|[signal](https://www.signal.org/de/)|
+|[ffmpeg](https://ffmpeg.org)|[discord](https://discord.com)|
+|[gnupg](https://gnupg.org)|[jabref](https://www.jabref.org)|
+|[imagemagick](https://imagemagick.org)|[lunar](https://lunar.fyi)|
+|[omkatv/powerlevel10k/powerlevel10k](https://github.com/romkatv/powerlevel10k)|[motrix](https://motrix.app)|
+|[npm](https://www.npmjs.com)|[raspberry-pi-imager](https://www.raspberrypi.com/software/)|
+||[texstudio](https://texstudio.org)|
+||[yattee](https://github.com/yattee/yattee)|
+||[element](https://element.io)|
+||[jetbrains-toolbox](https://www.jetbrains.com/toolbox-app/)|
+||[mactex](https://www.tug.org/mactex/)|
+||[rustdesk](https://rustdesk.com)|
+||[zoom](https://zoom.us)|
 
 ### Dev Websites
 ||
