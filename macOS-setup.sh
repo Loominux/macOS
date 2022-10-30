@@ -20,3 +20,4 @@ defaults write .GlobalPreferences com.apple.mouse.scaling -1
 # ZSH Config
 curl -o ~/.p10k.zsh https://raw.githubusercontent.com/Loominux/macOS/main/.p10k.zsh
 curl -o ~/.zshrc https://raw.githubusercontent.com/Loominux/macOS/main/.zshrc
+curl -o ~/Downloads/Nord.itermcolors https://github.com/arcticicestudio/nord-iterm2/raw/develop/src/xml/Nord.itermcolors
