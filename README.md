@@ -7,7 +7,6 @@
 ## Software
 
 ### Brew Software
-
 |CLI|
 |:---:|
 magic-wormhole
@@ -41,10 +40,14 @@ rustdesk
 zoom
 
 ### Dev Websites
-https://downloads.getmonero.org/gui/monero-gui-mac-x64-v0.18.1.0.dmg
-https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.zip
+||
+|:---:|
+[Logtech Options+](https://www.logitech.com/en-us/software/logi-options-plus.html)
+[Monero GUI](https://www.getmonero.org/downloads/)
 
 ### AppStore
+||
+|:---:|
 [Magnet](https://apps.apple.com/de/app/magnet/id441258766?mt=12)
 [noir](https://apps.apple.com/de/app/noir-dark-mode-for-safari/id1592917505?mt=12)
 [Adblock Pro](https://apps.apple.com/de/app/adblock-pro-safari-erweiterung/id1018301773)
