@@ -1,6 +1,8 @@
-# macOS
+# macOS setup
 
-## Run the script
+## Script
+
+### Run the script
 
 `curl https://raw.githubusercontent.com/Loominux/macOS/main/macOS-setup.sh | sh`
 
