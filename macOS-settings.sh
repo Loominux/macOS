@@ -7,7 +7,8 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # Brew software
 
-brew install discord jetbrains-toolbox rustdesk element monero-wallet signal gpg-suite qbittorrent tor-browser iterm2 raspberry-pi-imager yattee gnupg ffmpeg imagemagick romkatv/powerlevel10k/powerlevel10k neofetch htop neovim npm yt-dlp mactex texstudio
+brew install magic-wormhole neofetch neovim yt-dlp ffmpeg gnupg imagemagick omkatv/powerlevel10k/powerlevel10k npm --cask anki iterm2 logisim-evolution signal discord	jabref lunar motrix raspberry-pi-imager texstudio yattee element jetbrains-toolbox mactex qbittorrent rustdesk zoom
+
 # Dowanload other software
 
 curl -o ~/Downloads/monero-gui-mac-x64-v0.18.1.0.dmg https://downloads.getmonero.org/gui/monero-gui-mac-x64-v0.18.1.0.dmg
