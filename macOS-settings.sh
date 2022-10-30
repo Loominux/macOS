@@ -16,3 +16,7 @@ curl -o ~/Downloads/optionsplus/logioptionsplus_installer.zip https://download01
 
 # Disable Mouse accel
 defaults write .GlobalPreferences com.apple.mouse.scaling -1
+
+# ZSH Config
+curl -o ~/.p10k.zsh https://raw.githubusercontent.com/Loominux/macOS/main/.p10k.zsh
+curl -o ~/.zshrc https://raw.githubusercontent.com/Loominux/macOS/main/.zshrc
