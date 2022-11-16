@@ -4,7 +4,9 @@
 
 ### Run the script
 
-`curl https://raw.githubusercontent.com/Loominux/macOS/main/macOS-setup.sh | sh`
+```sh
+curl https://raw.githubusercontent.com/Loominux/macOS/main/macOS-setup.sh | sh
+```
 
 ### Things the script is doing
 
